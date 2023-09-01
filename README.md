@@ -1,3 +1,2 @@
 # learn-py
-My first project in Git! 
-Joshan Test
+My first project in Git! Really looking forward to learning Python!
