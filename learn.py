@@ -1,5 +1,4 @@
 # practicing loops
-
 print('This program will only retry 3 times.')
 
 i = 0 # set the index starting point
